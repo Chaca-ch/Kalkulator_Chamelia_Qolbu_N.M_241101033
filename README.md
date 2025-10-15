@@ -6,7 +6,10 @@ Berikut adalah Tugas dari Mata Kuliah Pemrograman Berorientasi Objek
 
 # 🔍Information
 Nama = Chamelia Qolbu Nur M.
+
 NIM = 241101033
-Mata Kuliah = Pmerogramman Berorientasi Objek
+
+Mata Kuliah = Pemrogramman Berorientasi Objek
+
 Kampus = Universitas Nahdlatul Ulama Sunan Giri, Bojonegoro
 
